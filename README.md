@@ -1,1 +1,1 @@
-echo # obsidian ios sync
+# obsidian ios sync
