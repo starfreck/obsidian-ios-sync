@@ -19,11 +19,7 @@ mv obsidian-ios-sync/* .
 
 rm -rf obsidian-ios-sync
 
-chmod 777 install.sh
-
-chmod 777 sync.sh
-
-chmod 777 update_config.py
+chmod 777 -R .
 
 ./install.sh
 ```
