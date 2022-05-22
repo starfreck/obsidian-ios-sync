@@ -17,7 +17,7 @@ git clone https://github.com/starfreck/obsidian-ios-sync.git
 
 mv obsidian-ios-sync/* .
 
-rmdir obsidian-ios-sync
+rm -rf obsidian-ios-sync
 
 chmod 777 install.sh
 
