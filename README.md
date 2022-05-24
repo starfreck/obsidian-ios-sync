@@ -45,7 +45,7 @@ python3 update_config.py "gdrive:Obsidian" "/root/Obsidian"
 # if you mess up then just use "syncrclone --new config.py" to create new config.py
 ```
 
-5. Run ./Sync.sh and it will sync your Obsidian automatically. :)
+5. Run ./sync.sh and it will sync your Obsidian automatically. :)
 
 ## Referance
 - https://rclone.org
