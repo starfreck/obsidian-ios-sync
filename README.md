@@ -1,12 +1,13 @@
-# obsidian ios sync
+# [obsidian](https://obsidian.md) ios sync
 
 ## Note
 - [The iSH will ask for the location permisson to run in background. It does not log or monitor anyone's location](https://github.com/ish-app/ish/wiki/Running-in-background)
 - To be more secure please try to use your own Google Drive API keys
 - Create a pull request to contribute
+ 
 ## TODO
 - [ ] Add sync.sh in to [OpenRC](https://wiki.alpinelinux.org/wiki/OpenRC) init system to run on start-up. [Read more](https://github.com/ish-app/ish/wiki/How-To-Enable-OpenRC-&-Start-Services-When-iSH-App-Starts).
-- [ ] Fix the iSH app freeze issue after sometime (I tried using rclone bisync, it works but still sometimes freezes. I think it depends on the processor of your device. I only have an iPad. Please test and let me know the result)
+- [ ] Fix the iSH app freeze issue after sometime ( it works but still sometimes freezes. I think it depends on the processor of your device. I only have an iPad. Please test and let me know your results)
 
 ## Setup
 
